@@ -14,5 +14,6 @@ public class Entornos_clase {
         System.out.println("Hello World!");
         System.out.println("PRUEBA EN CLASE");
         System.out.println("COMO SUBIR TODO!");
+         System.out.println("COMO SUBIR TODO 2 vez!");
     }
 }
